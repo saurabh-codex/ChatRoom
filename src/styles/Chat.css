@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.user{
+    font-size: 15px;
+}
+.header{
+    font-size: 40px;
+}
+div.auth{
+    height:100vh
+}
+.signinhead{
+    margin:10px;
+    font-size: 30px;
+    font-family: 'Marcellus', serif;
+}
+#g{
+    color: #4285f4;
+    font-family: poppins;
+    font-weight: bolder;
+}
+#o1{
+    color:#ea4234;
+    font-family: poppins;
+    font-weight: bolder;
+}
+#o2{
+    color:#fcbc05;
+    font-family: poppins;
+    font-weight: bolder;
+}
+#l{
+    color:#35a854;
+    font-family: poppins;
+    font-weight: bolder;
+}
+#e{
+    color:#ea4234;
+    font-family: poppins;
+    font-weight: bolder;
+}
+.btn-img{
+    width:50px;
+    height:50px;
+}
+a.btn.btn-ghost{
+    font-size: 30px;
+    font-family:poppins;
+    font-weight: 800;
+    font-style: italic;
+}
+.welcome{
+    font-family: 'Marcellus', serif;
+    font-size: 36px;
+}
+.flick{
+    font-family:poppins;
+    font-weight: 800;
+    font-style: italic;
+}
+.headlogo{
+    height:30px;
+    width:30px;
+    transform: scaleX(-1);
+}
+
